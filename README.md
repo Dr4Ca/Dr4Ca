@@ -18,7 +18,8 @@
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 # 📊 GitHub Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> <img src="https://nirzak-streak-stats.vercel.app/?user=Dr4Ca&theme=dark&hide_border=false" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> <img src="https://nirzak-streak-stats.vercel.app/?user=Dr4Ca&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 
 ### ✍️ Random Dev Quote
