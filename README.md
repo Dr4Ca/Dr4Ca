@@ -18,6 +18,8 @@
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 # 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 <table border="0">
   <tr>
     <td>
@@ -29,7 +31,6 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
