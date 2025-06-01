@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-<div align="center">
+<div align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=Dr4Ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dr4Ca&theme=dark&hide_border=false" />
 </div>
